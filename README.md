@@ -1,1 +1,1 @@
-An interactive web-based simulator for CPU scheduling algorithms, including FCFS, SJF, RR, SRTF, and Priority Scheduling. Users can input process details, visualize scheduling through Gantt charts, and analyze turnaround time & waiting time.
+Added README: Overview, features, and additional information
